@@ -8,5 +8,5 @@ Algoritmo proyecto
 
     Leer algo_interesante
 
-    Escribir "Lo que dijiste ", algo_interesante, " no fue muy interesante"
+    Escribir "Lo que dijiste ", algo_interesante, " si fue muy interesante"
 FinAlgoritmo

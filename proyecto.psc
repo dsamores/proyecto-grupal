@@ -4,4 +4,5 @@ Algoritmo proyecto
     Escribir "Somos el mejor equipo, dime tu nombre"
     Leer nombre
     Escribir "Hola ", nombre, " bienvenido al grupo"
+    Escribir "Dime algo interesante"
 FinAlgoritmo
